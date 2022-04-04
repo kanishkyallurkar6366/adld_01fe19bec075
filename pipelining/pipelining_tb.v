@@ -1,27 +1,3 @@
-`timescale 1ns / 1ps
-
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   10:40:55 03/19/2022
-// Design Name:   ex1
-// Module Name:   D:/xilinx_college/pipelining_1/ex1_tb.v
-// Project Name:  pipelining_1
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: ex1
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module ex1_tb;
 
 	// Inputs
